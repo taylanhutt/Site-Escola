@@ -26,3 +26,22 @@ header {
     margin: 0;
     padding:0;
   }
+
+  .escola-imagem {
+    width: 25%;
+  }
+
+  .escola-conteudo {
+    width: 35%;
+  }
+  .escola{
+    background-image: linear-gradient(#383d58,#00c0eb);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+  }
+   .esscola-titulo{
+    padding: 24px 0;
+   }
