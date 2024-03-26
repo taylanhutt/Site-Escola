@@ -46,6 +46,9 @@ header {
     padding: 24px 0;
    }
   
-   body {
+   .body {
      font-family:Poppins, sans-serif;
+   }
+   .estudante-imagem{
+    width:120px;
    }
