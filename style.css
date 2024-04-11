@@ -48,15 +48,15 @@ header {
   
    body {
 
-      font-family: ´Poppins´ ,sans-serif;
+      font-family:'Poppins' sans-serif;
    }
   
    .estudante-imagem{
-    width:120px;
+    width: 120px;
    }
 
    .estudante-icone{
-      width:24px;
+      width: 24px;
    }
 
   .estudante-div{
@@ -65,12 +65,12 @@ header {
 
   .estudante-titulo{
      text-align: center;
-     padding:50px 0;
+     padding: 50px 0;
   }
 
   .estudante-todos{
      display: grid;
-     grid-template-columns:20% 20% 20% 20% ;
+     grid-template-columns: 20% 20% 20% 20% ;
   }
 
   footer {
